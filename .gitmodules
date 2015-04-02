@@ -1,0 +1,9 @@
+[submodule "bundle/vim-puppet"]
+	path = bundle/vim-puppet
+	url = git@github.com:rodjek/vim-puppet.git
+[submodule "bundle/vim-ruby"]
+	path = bundle/vim-ruby
+	url = git@github.com:vim-ruby/vim-ruby.git
+[submodule "bundle/vim-tabular"]
+	path = bundle/vim-tabular
+	url = it@github.com:godlygeek/tabular.git

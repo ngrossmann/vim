@@ -1,12 +1,12 @@
 [submodule "bundle/vim-puppet"]
 	path = bundle/vim-puppet
-	url = git@github.com:rodjek/vim-puppet.git
+	url = https://github.com/rodjek/vim-puppet.git
 [submodule "bundle/vim-ruby"]
 	path = bundle/vim-ruby
-	url = git@github.com:vim-ruby/vim-ruby.git
+	url = https://github.com/vim-ruby/vim-ruby.git
 [submodule "bundle/vim-tabular"]
 	path = bundle/vim-tabular
-	url = it@github.com:godlygeek/tabular.git
+	url = https://github.com/godlygeek/tabular.git
 [submodule "bundle/vim-fugitive"]
 	path = bundle/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive.git
